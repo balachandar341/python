@@ -20,3 +20,5 @@ results.close()
  # print hostname, 'is up!'
 #else:
  # print hostname, 'is down!'
+
+#This is used to findout all ip's under subnet
